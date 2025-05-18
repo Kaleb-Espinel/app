@@ -8,7 +8,7 @@ function Component() {
   };
 
   const ClickButton = () => {
-    return <p>{inputValor === "54 cm2" ? "Correcto" : "Incorrecto"}</p>;
+    return <p>{inputValor === "54 cm2" ? "Correcta" : "Incorrecta"}</p>;
   };
 
   const handleClick = () => {
