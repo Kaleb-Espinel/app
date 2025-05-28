@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "question": "¿Cual es la nomenclatura de la sal?",
+    "clase": "true",
+    "a1": "H2O",
+    "a2": "NaCl",
+    "a3": "ClNa",
+    "a4": "Sal de mesa",
+    "correct": "NaCl"
+  },
+  {
+    "id": 2,
+    "question": "¿Cual es la capital de Ecuador?",
+    "clase": "true",
+      "a1": "Quito",
+    "a2": "Cuenca",
+    "a3": "Guayaquil",
+    "a4": "Ibarra",
+    "correct": "Quito"
+  }
+]
